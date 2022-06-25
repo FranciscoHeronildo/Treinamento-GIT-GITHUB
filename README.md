@@ -4,7 +4,7 @@ Um treinamento de Versionamento de Código para o Time-5
 
 [FranciscoHeronildo](https://francisco-heronildo.netlify.app/)
 
-[PhilipeSousa](https://github.com/PhilipeSousa)
+[PhilipeSousa](https://github.com/PhilipeSousa) ![alt text](https://pluspng.com/img-png/github-logo-png-github-logo-png-img-1600-1600-free-transparent-git-png-900x900.jpg)
 
 ## Desafio
 
