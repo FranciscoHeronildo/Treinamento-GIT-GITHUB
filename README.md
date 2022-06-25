@@ -4,6 +4,8 @@ Um treinamento de Versionamento de Código para o Time-5
 
 [FranciscoHeronildo](https://francisco-heronildo.netlify.app/)
 
+[PhilipeSousa](https://github.com/PhilipeSousa) ![alt text](https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_git_icon_130581.png)
+
 ## Desafio
 
 - 1. Fazer o _Fork_ do Repositório;
